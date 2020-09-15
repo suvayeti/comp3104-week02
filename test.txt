@@ -1,1 +1,3 @@
-a modify here
+Warning: Permanently added the RSA host key for IP address '140.82.114.4' to the list of known hosts.
+ERROR: Permission to suvayeti/comp3104-week02.git denied to Suvash-cloud.
+fatal: Could not read from remote repository.
